@@ -1,2 +1,0 @@
-# customweb
-A Static Website
